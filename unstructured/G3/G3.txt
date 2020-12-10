@@ -1,0 +1,286 @@
+Introduction
+Type 2 diabetes is a chronic metabolic condition characterised by insulin resistance (that is, the body's inability to effectively use insulin) and insufficient pancreatic insulin production, resulting in high blood glucose levels (hyperglycaemia). Type 2 diabetes is commonly associated with obesity, physical inactivity, raised blood pressure, disturbed blood lipid levels and a tendency to develop thrombosis, and therefore is recognised to have an increased cardiovascular risk. It is associated with long-term microvascular and macrovascular complications, together with reduced quality of life and life expectancy.
+In 2013, over 3.2 million adults were diagnosed with diabetes, with prevalence rates of 6% and 6.7% in England and Wales respectively. It is estimated that about 90% of adults currently diagnosed with diabetes have type 2 diabetes. Type 2 diabetes is more common in people of African, African-Caribbean and South Asian family origin. It can occur in all age groups and is increasingly being diagnosed in children.
+Multiple vascular risk factors and wide-ranging complications make diabetes care complex and time-consuming, and many areas of healthcare services must be involved for optimal management. Necessary lifestyle changes, the complexities and possible side effects of therapy make patient education and self-management important aspects of diabetes care. Diabetes care is estimated to account for at least 5% of UK healthcare expenditure, and up to 10% of NHS expenditure. 
+This guideline contains recommendations for managing type 2 diabetes in adults, and focuses on patient education, dietary advice, managing cardiovascular risk, managing blood glucose levels, and identifying and managing long-term complications. The guideline does not cover diagnosis, secondary diabetes, type 1 diabetes in adults, diabetes in pregnancy and diabetes in children and young people.
+Reasons for the update
+Since the publication of the 2009 guideline, availability of new evidence and several key developments have prompted an update in the following areas: managing blood glucose levels, antiplatelet therapy and erectile dysfunction. In particular, reasons included safety concerns surrounding some blood glucose lowering medicines, new evidence on new dipeptidyl peptidase-4 (DPP-4) inhibitors and glucagon-like peptide-1 (GLP-1) receptor agonists, new indications and licensed combinations for licensed class members and the potential impact of drugs coming off patent on health-economic issues. In addition, new evidence and safety issues relating to the off-label use of antiplatelet therapy (aspirin and clopidogrel) in the primary prevention of cardiovascular disease motivated an update of this review.
+Medicines
+The guideline will assume that prescribers will use a medicine's summary of product characteristics to inform decisions made with individual patients. This guideline recommends some medicines for indications for which they do not have a UK marketing authorisation at the date of publication, if there is good evidence to support that use. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. The patient (or those with authority to give consent on their  ehalf) should provide informed consent, which should be documented. See the General Medical Council's Prescribing guidance: prescribing unlicensed medicines for further information. Where recommendations have been made for the use of medicines outside their licensed indications ('off-label use'), these medicines are marked with a footnote in the recommendations.
+Patient-centred care
+This guideline offers best practice advice on the care of adults with type 2 diabetes. When caring for older adults with type 2 diabetes, particular consideration should be given to their broader health and social care needs. Older people are more likely to have co-existing conditions and to be on a greater number of medicines. Their ability to benefit from risk-reduction interventions in the longer term may also be reduced. 
+Much of the evidence base used to inform this guideline has been generated from studies involving younger adults (study mean ages ranged from 45 to 68 years). While the Guideline Development Group thought that the recommendations are applicable to a wider age  roup, they highlighted that there needs to be flexibility, to ensure that the care of older people with diabetes also addresses their broader health and social care needs.
+Patients and healthcare professionals have rights and responsibilities as set out in the NHS Constitution for England – all NICE guidance is written to reflect these. Treatment and care should take into account individual needs and preferences. Patients should have the opportunity to make informed decisions about their care and treatment, in partnership with their healthcare professionals. If the patient is under 16, their family or carers should also be given information and support to help the child or young person to make decisions about their treatment. If it is clear that the child or young person fully understands the treatment and does not want their family or carers to be involved, they can give their own consent. Healthcare professionals should follow the Department of Health's advice on consent. If someone does not have capacity to make decisions, healthcare professionals should follow the code of practice that accompanies the Mental Capacity Act and the supplementary code of practice on deprivation of liberty safeguards.  NICE has produced guidance on the components of good patient experience in adult NHS services. All healthcare professionals should follow the recommendations in patient experience in adult NHS services.
+Key priorities for implementation
+The following recommendations have been identified as priorities for implementation. The full list of recommendations is in section 1.
+Patient education
+Offer structured education to adults with type 2 diabetes and/or their family members or carers (as appropriate) at and around the time of diagnosis, with annual reinforcement and review. Explain to people and their carers that structured education is an integral part of diabetes care.
+Ensure that any structured education programme for adults with type 2 diabetes includes the following components:
+It is evidence-based, and suits the needs of the person.
+It has specific aims and learning objectives, and supports the person and their family members and carers in developing attitudes, beliefs, knowledge and skills to self-manage diabetes.
+It has a structured curriculum that is theory-driven, evidence-based and resource-effective, has supporting materials, and is written down.
+It is delivered by trained educators who have an understanding of educational theory appropriate to the age and needs of the person, and who are trained and competent to deliver the principles and content of the programme.
+It is quality assured, and reviewed by trained, competent, independent assessors who measure it against criteria that ensure consistency.
+The outcomes are audited regularly.
+Dietary advice
+Integrate dietary advice with a personalised diabetes management plan, including other aspects of lifestyle modification, such as increasing physical activity and losing weight.
+Blood pressure management
+Add medications if lifestyle advice does not reduce blood pressure to below 140/80 mmHg (below 130/80 mmHg if there is kidney, eye or cerebrovascular damage). 
+Monitor blood pressure every 1–2 months, and intensify therapy if the person is already on antihypertensive drug treatment, until the blood pressure is consistently below 140/80 mmHg (below 130/80 mmHg if there is kidney, eye or cerebrovascular damage).
+Blood glucose management
+Involve adults with type 2 diabetes in decisions about their individual HbA1c target. Encourage them to achieve the target and maintain it unless any resulting adverse effects (including hypoglycaemia), or their efforts to achieve their target, impair their quality of life.
+In adults with type 2 diabetes, if HbA1c levels are not adequately controlled by a single drug and rise to 58 mmol/mol (7.5%) or higher:
+reinforce advice about diet, lifestyle and adherence to drug treatment and
+support the person to aim for an HbA1c level of 53 mmol/mol (7.0%) and 
+intensify drug treatment. 
+Do not routinely offer self-monitoring of blood glucose levels for adults with type 2 diabetes unless:
+the person is on insulin or
+there is evidence of hypoglycaemic episodes or
+the person is on oral medication that may increase their risk of hypoglycaemia while
+driving or operating machinery or
+the person is pregnant, or is planning to become pregnant. For more information, see the NICE guideline on diabetes in pregnancy. 
+Drug treatment
+Offer standard-release metformin as the initial drug treatment for adults with type 2 diabetes. 
+In adults with type 2 diabetes, if metformin is contraindicated or not tolerated, consider initial drug treatment with:
+a dipeptidyl peptidase-4 (DPP-4) inhibitor or
+pioglitazone[2]or
+a sulfonylurea.
+Be aware that, if metformin is contraindicated or not tolerated, repaglinide is both clinically effective and cost effective in adults with type 2 diabetes. However, discuss with any person for whom repaglinide is being considered, that there is no licensed non-metformin-based combination containing repaglinide that can be offered at first intensification.
+When prescribing pioglitazone, exercise particular caution if the person is at high risk of the adverse effects of the drug. Pioglitazone is associated with an increased risk of heart failure, bladder cancer and bone fracture. Known risk factors for these conditions, including increased age, should be carefully evaluated before treatment: see the manufacturers' summaries of product characteristics for details. Medicines and Healthcare products Regulatory Agency (MHRA) guidance (2011) advises that 'prescribers should review the safety and efficacy of pioglitazone in individuals after 3–6 months of treatment to ensure that only patients who are deriving benefit continue to be treated'.
+Recommendations
+The following guidance is based on the best available evidence. The full guideline gives details of the methods and the evidence used to develop the guidance.
+The wording used in the recommendations in this guideline (for example, words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendation). See about this guideline for details.
+Terms used in this guideline
+Initial drug treatment
+Treatment with a single non-insulin blood glucose lowering therapy (monotherapy)
+First intensification of drug treatment
+Treatment with 2 non-insulin blood glucose lowering therapies in combination (dual therapy)
+Second intensification of drug treatment
+Treatment with either 3 non-insulin blood glucose lowering therapies in combination (triple therapy) or any treatment combination containing insulin
+Individualised care
+Adopt an individualised approach to diabetes care that is tailored to the needs and circumstances of adults with type 2 diabetes, taking into account their personal preferences, comorbidities, risks from polypharmacy, and their ability to benefit from long-term interventions because of reduced life expectancy. Such an approach is especially important in the context of multimorbidity. Reassess the person's needs and circumstances at each review and think about whether to stop any medicines that are not effective.
+Take into account any disabilities, including visual impairment, when planning and delivering care for adults with type 2 diabetes. 
+Patient education
+Offer structured education to adults with type 2 diabetes and/or their family members or carers (as appropriate) at and around the time of diagnosis, with annual reinforcement and review. Explain to people and their carers that structured education is an integral part of diabetes care. 
+Ensure that any structured education programme for adults with type 2 diabetes includes the following components:
+It is evidence-based, and suits the needs of the person.
+It has specific aims and learning objectives, and supports the person and their family members and carers in developing attitudes, beliefs, knowledge and skills to self-manage diabetes.
+It has a structured curriculum that is theory-driven, evidence-based and resource-effective, has supporting materials, and is written down.
+It is delivered by trained educators who have an understanding of educational theory appropriate to the age and needs of the person, and who are trained and competent to deliver the principles and content of the programme.
+It is quality assured, and reviewed by trained, competent, independent assessors who measure it against criteria that ensure consistency.
+The outcomes are audited regularly
+Ensure the patient-education programme provides the necessary resources to support the educators, and that educators are properly trained and given time to develop and maintain their skills. 
+Offer group education programmes as the preferred option. Provide an alternative of equal standard for a person unable or unwilling to participate in group education.
+Ensure that the patient-education programmes available meet the cultural, linguistic, cognitive and literacy needs within the local area.
+Ensure that all members of the diabetes healthcare team are familiar with the patient-education programmes available locally, that these programmes are integrated with the rest of the care pathway, and that adults with type 2 diabetes and their family members or carers (as appropriate) have the opportunity to contribute to the design and provision of local programmes.
+Dietary advice
+Provide individualised and ongoing nutritional advice from a healthcare professional with specific expertise and competencies in nutrition. 
+Provide dietary advice in a form sensitive to the person's needs, culture and beliefs, being sensitive to their willingness to change and the effects on their quality of life.
+Emphasise advice on healthy balanced eating that is applicable to the general population when providing advice to adults with type 2 diabetes. Encourage high-fibre, low-glycaemic-index sources of carbohydrate in the diet, such as fruit, vegetables, wholegrains and pulses; include low-fat dairy products and oily fish; and control the intake of foods containing saturated and trans fatty  acids.
+Integrate dietary advice with a personalised diabetes management plan, including other aspects of lifestyle modification, such as increasing physical activity and losing weight. 
+For adults with type 2 diabetes who are overweight, set an initial body weight loss target of 5–10%. Remember that lesser degrees of weight loss may still be of benefit, and that larger degrees of weight loss in the longer term will have advantageous metabolic impact. 
+Individualise recommendations for carbohydrate and alcohol intake, and meal patterns. Reducing the risk of hypoglycaemia should be a particular aim for a person using insulin or an insulin secretagogue.
+Advise adults with type 2 diabetes that limited substitution of sucrose-containing foods for other carbohydrate in the meal plan is allowable, but that they should take care to avoid excess energy intake.  
+Discourage the use of foods marketed specifically for people with diabetes.
+When adults with type 2 diabetes are admitted to hospital as inpatients or to any other care setting, implement a meal planning system that provides consistency in the carbohydrate content of meals and snacks. 
+For recommendations on lifestyle advice, see the NICE guidelines on: 
+preventing excess weight gain, weight management, obesity, physical activity, smoking: brief interventions and referrals, stop smoking services, smoking: harm reduction, and smoking: acute, maternity and mental health services.
+Blood pressure management
+Measure blood pressure at least annually in an adult with type 2 diabetes without previously diagnosed hypertension or renal disease. Offer and reinforce preventive lifestyle advice.
+For an adult with type 2 diabetes on antihypertensive drug treatment when diabetes is diagnosed, review blood pressure control and medications used. Make changes only if there is poor control or if current drug treatment is not appropriate because of microvascular complications or metabolic problems.
+Repeat blood pressure measurements within:
+1 month if blood pressure is higher than 150/90 mmHg
+2 months if blood pressure is higher than 140/80 mmHg
+2 months if blood pressure is higher than 130/80 mmHg and there is kidney, eye or  cerebrovascular damage.
+Provide lifestyle advice (diet and exercise) at the same time.
+Provide lifestyle advice (see section 1.3 in this guideline and the lifestyle interventions section in hypertension in adults [NICE guideline CG127]) if blood pressure is confirmed as being consistently above 140/80 mmHg (or above 130/ 80 mmHg if there is kidney, eye or cerebrovascular damage). 
+Add medications if lifestyle advice does not reduce blood pressure to below 140/80 mmHg (below 130/80 mmHg if there is kidney, eye or cerebrovascular damage).
+Monitor blood pressure every 1–2 months, and intensify therapy if the person is already on antihypertensive drug treatment, until the blood pressure is consistently below 140/80 mmHg (below 130/80 mmHg if there is kidney, eye or cerebrovascular damage). 
+First-line antihypertensive drug treatment should be a once-daily, generic angiotensin-converting enzyme (ACE) inhibitor. Exceptions to this are people of African or Caribbean family origin, or women for whom there is a possibility of becoming pregnant.
+The first-line antihypertensive drug treatment for a person of African or Caribbean family origin should be an ACE inhibitor plus either a diuretic or a generic calcium-channel blocker. 
+A calcium-channel blocker should be the first-line antihypertensive drug treatment for a woman for whom, after an informed discussion, it is agreed there is a possibility of her becoming pregnant.
+For a person with continuing intolerance to an ACE inhibitor (other than renal deterioration or hyperkalaemia), substitute an angiotensin II-receptor antagonist for the ACE inhibitor.
+Do not combine an ACE inhibitor with an angiotensin II-receptor antagonist to treat hypertension. 
+If the person's blood pressure is not reduced to the individually agreed target with first-line therapy, add a calcium-channel blocker or a diuretic (usually a thiazide or thiazide-related diuretic). Add the other drug (that is, the calcium-channel blocker or diuretic) if the target is not reached with dual therapy. 
+If the person's blood pressure is not reduced to the individually agreed target with triple therapy, add an alpha-blocker, a beta-blocker or a potassium-sparing diuretic (the last with caution if the person is already taking an ACE inhibitor or an angiotensin II-receptor antagonist).
+Monitor the blood pressure of a person who has attained and consistently remained at his or her blood pressure target every 4–6 months. Check for possible adverse effects of antihypertensive drug treatment – including the risks from unnecessarily low blood pressure. 
+Antiplatelet therapy
+Do not offer antiplatelet therapy (aspirin or clopidogrel) for adults with type 2 diabetes without cardiovascular disease.
+For guidance on the primary and secondary prevention of cardiovascular disease in adults with type 2 diabetes, see the NICE guidelines on cardiovascular disease and myocardial infarction.
+Blood glucose management
+HbA1c measurement and targets
+Measurement
+In adults with type 2 diabetes, measure HbA1c levels at:
+3–6-monthly intervals (tailored to individual needs), until the HbA1c is stable on unchanging therapy
+6-monthly intervals once the HbA1c level and blood glucose lowering therapy are stable.
+Use methods to measure HbA1c that have been calibrated according to International Federation of Clinical Chemistry (IFCC) standardisation. 
+If HbA1c monitoring is invalid because of disturbed erythrocyte turnover or abnormal haemoglobin type, estimate trends in blood glucose control using one of the following:
+quality-controlled plasma glucose profiles
+total glycated haemoglobin estimation (if abnormal haemoglobins)
+fructosamine estimation. 
+Investigate unexplained discrepancies between HbA1c and other glucose measurements. Seek advice from a team with specialist expertise in diabetes or clinical biochemistry.
+Targets
+Involve adults with type 2 diabetes in decisions about their individual HbA1c target. Encourage them to achieve the target and maintain it unless any resulting adverse effects (including hypoglycaemia), or their efforts to achieve their target, impair their quality of life.
+Offer lifestyle advice and drug treatment to support adults with type 2 diabetes to achieve and maintain their HbA1c target (see section 1.3). For more information about supporting adherence, see the NICE guideline on medicines adherence.
+For adults with type 2 diabetes managed either by lifestyle and diet, or by lifestyle and diet combined with a single drug not associated with hypoglycaemia, support the person to aim for an HbA1c level of 48 mmol/mol (6.5%). For adults on a drug associated with hypoglycaemia, support the person to aim for an HbA1c level of 53 mmol/mol (7.0%).
+In adults with type 2 diabetes, if HbA1c levels are not adequately controlled by a single drug and rise to 58 mmol/mol (7.5%) or higher:
+reinforce advice about diet, lifestyle and adherence to drug treatment and
+support the person to aim for an HbA1c level of 53 mmol/mol (7.0%) and
+intensify drug treatment. 
+Consider relaxing the target HbA1c level (see recommendations 1.6.7 and 1.6.8) on a case-by-case basis, with particular consideration for people who are older or frail, for adults with type 2 diabetes:
+who are unlikely to achieve longer-term risk-reduction benefits, for example, people with a reduced life expectancy
+for whom tight blood glucose control poses a high risk of the consequences of hypoglycaemia, for example, people who are at risk of falling, people who have impaired awareness of hypoglycaemia, and people who drive or operate machinery as part of their job
+for whom intensive management would not be appropriate, for example, people with significant comorbidities. 
+If adults with type 2 diabetes achieve an HbA1c level that is lower than their target and they are not experiencing hypoglycaemia, encourage them to maintain it. Be aware that there are other possible reasons for a low HbA1c level, for example, deteriorating renal function or sudden weight loss.
+For guidance on HbA1c targets for women with type 2 diabetes who are pregnant or planning to become pregnant, see the NICE guideline on diabetes in pregnancy.
+Self-monitoring of blood glucose
+Take the Driver and Vehicle Licensing Agency (DVLA) At a glance guide to the current medical standards of fitness to drive into account when offering self-monitoring of blood glucose levels for adults with type 2 diabetes.
+Do not routinely offer self-monitoring of blood glucose levels for adults with type 2 diabetes unless:
+the person is on insulin or
+there is evidence of hypoglycaemic episodes or
+the person is on oral medication that may increase their risk of hypoglycaemia while driving or operating machinery or
+the person is pregnant, or is planning to become pregnant. For more information, see the NICE guideline on diabetes in pregnancy.
+Consider short-term self-monitoring of blood glucose levels in adults with type 2 diabetes (and review treatment as necessary):
+when starting treatment with oral or intravenous corticosteroids or
+to confirm suspected hypoglycaemia. 
+Be aware that adults with type 2 diabetes who have acute intercurrent illness are at risk of worsening hyperglycaemia. Review treatment as necessary. 
+If adults with type 2 diabetes are self-monitoring their blood glucose levels, carry out a structured assessment at least annually. The assessment should include:
+the person's self-monitoring skills
+the quality and frequency of testing
+checking that the person knows how to interpret the blood glucose results and what action to take
+the impact on the person's quality of life
+the continued benefit to the person
+the equipment used.
+Drug treatment
+Recommendations in this section that cover dipeptidyl peptidase-4 (DPP-4) inhibitors, glucagon-like peptide-1 (GLP-1) mimetics and sulfonylureas refer to each of these groups of drugs at a class level.
+For adults with type 2 diabetes, discuss the benefits and risks of drug treatment, and the options available. Base the choice of drug treatment(s) on:
+the effectiveness of the drug treatment(s) in terms of metabolic response 
+safety (see Medicines and Healthcare products Regulatory Agency [MHRA] guidance)  and tolerability of the drug treatment(s)
+the person's individual clinical circumstances, for example, comorbidities, risks from polypharmacy
+the person's individual preferences and needs
+the licensed indications or combinations available
+cost (if 2 drugs in the same class are appropriate, choose the option with the lowest acquisition cost). 
+Rescue therapy at any phase of treatment 
+If an adult with type 2 diabetes is symptomatically hyperglycaemic, consider insulin (see recommendations 1.6.32–1.6.34) or a sulfonylurea, and review treatment when blood glucose control has been achieved.
+Initial drug treatment
+Offer standard-release metformin as the initial drug treatment for adults with type 2 diabetes.
+Gradually increase the dose of standard-release metformin over several weeks to minimise the risk of gastrointestinal side effects in adults with type 2 diabetes.
+If an adult with type 2 diabetes experiences gastrointestinal side effects with standard-release metformin, consider a trial of modified-release metformin.
+In adults with type 2 diabetes, review the dose of metformin if the estimated glomerular filtration rate (eGFR) is below 45 ml/minute/1.73m2:
+Stop metformin if the eGFR is below 30 ml/minute/1.73m2.
+Prescribe metformin with caution for those at risk of a sudden deterioration in kidney function and those at risk of eGFR falling below 45 ml/minute/1.73m2. 
+In adults with type 2 diabetes, if metfo consider initial drug treatment with: a dipeptidyl peptidase-4 (DPP-4) inhibitor or
+pioglitazone or a sulfonylurea.
+In adults with type 2 diabetes, do not offer or continue pioglitazone[4] if they have any of the following: heart failure or history of heart failure, hepatic impairment, diabetic ketoacidosis, current, or a history of, bladder cancer, uninvestigated macroscopic haematuria.
+First intensification of drug treatment
+In adults with type 2 diabetes, if initial drug treatment with metformin has not continued to control HbA1c to below the person's individually agreed threshold for intensification, consider dual therapy with: metformin and a DPP-4 inhibitor or metformin and pioglitazone or metformin and a sulfonylurea. 
+In adults with type 2 diabetes, if metformin is contraindicated or not tolerated and initial drug treatment has not continued to control HbA1c to below the person's individually agreed threshold for intensification, consider dual therapy with: a DPP-4 inhibitor and pioglitazone or a DPP-4 inhibitor and a sulfonylurea or pioglitazone and a sulfonylurea.
+Treatment with combinations of medicines including sodium–glucose cotransporter 2 (SGLT-2) inhibitors may be appropriate for some people with type 2 diabetes; see the NICE guidance on canagliflozin in combination therapy for treating type 2 diabetes,  apagliflozin in combination therapy for treating type 2 diabetes and empagliflozin in combination therapy for treating type 2 diabetes. 
+Second intensification of drug treatment
+In adults with type 2 diabetes, if dual therapy with metformin and another oral drug (see recommendation 1.6.25) has not continued to control HbA1c to below the person's individually agreed threshold for intensification, consider either: triple therapy with: metformin, a DPP-4 inhibitor and a sulfonylurea or metformin, pioglitazone[4]and a sulfonylurea or starting insulin-based treatment (see recommendations 1.6.32–1.6.34). 
+If triple therapy with metformin and 2 other oral drugs (see recommendation 1.6.27) is not effective, not tolerated or  ontraindicated, consider combination therapy with metformin, a sulfonylurea and a glucagon-like peptide-1 (GLP-1) mimetic for adults with type 2 diabetes who: have a BMI of 35 kg/m2 or higher (adjust accordingly for people from black, Asian and other minority ethnic groups) and specific psychological or other medical problems associated with obesity or have a BMI lower than 35 kg/m2and: for whom insulin therapy would have significant occupational implications or weight loss would benefit other significant obesity-related comorbidities.
+Only continue GLP-1 mimetic therapy if the person with type 2 diabetes has had a beneficial metabolic response (a reduction of at least 11 mmol/mol [1.0%] in HbA1c and a weight loss of at least 3% of initial body weight in 6 months).
+In adults with type 2 diabetes, if metformin is contraindicated or not tolerated, and if dual therapy with 2 oral drugs (see recommendation 1.6.26) has not continued to control HbA1c to below the person's individually agreed threshold for intensification, consider insulin-based treatment (see recommendations 1.6.32–1.6.34). 
+In adults with type 2 diabetes, only offer a GLP-1 mimetic in combination with insulin with specialist care advice and ongoing support from a consultant-led multidisciplinary team.
+Treatment with combinations of medicines including SGLT-2 inhibitors may be appropriate for some people with type 2 diabetes; see the NICE guidance on canagliflozin in combination therapy for treating type 2 diabetes, dapagliflozin in combination therapy for treating type 2 diabetes, dapagliflozin in triple therapy for treating type 2 diabetes and empagliflozin in combination therapy for treating type 2 diabetes.
+Insulin-based treatments
+When starting insulin therapy in adults with type 2 diabetes, use a structured programme employing active insulin dose titration that encompasses: injection technique, including rotating injection sites and avoiding repeated injections at the same point within sites, continuing telephone support, self-monitoring, dose titration to target levels, dietary understanding, DVLA guidance (At a glance guide to the current medical standards of fitness to drive), management of hypoglycaemia, management of acute changes in plasma glucose control, support from an appropriately trained and experienced healthcare professional.
+When starting insulin therapy in adults with type 2 diabetes, continue to offer metformin for people without contraindications or intolerance. Review the continued need for other blood glucose lowering therapies.
+Start insulin therapy for adults with type 2 diabetes from a choice of a number of insulin types and regimens: Offer NPH insulin injected once or twice daily according to need.
+Consider starting both NPH and short-acting insulin (particularly if the person's HbA1c is 75 mmol/mol [9.0%] or higher), administered either: separately or as a pre-mixed (biphasic) human insulin preparation.
+Consider, as an alternative to NPH insulin, using insulin detemir or insulin glargine if: the person needs assistance from a carer or healthcare professional to inject insulin, and use of insulin detemir or insulin glargine would reduce the frequency of injections from twice to once daily or the person's lifestyle is restricted by recurrent symptomatic hypoglycaemic episodes or the person would otherwise need twice-daily NPH insulin injections in combination with oral glucose-lowering drugs.
+Consider pre-mixed (biphasic) preparations that include short-acting insulin analogues, rather than pre-mixed (biphasic) preparations that include short-acting human insulin preparations, if: a person prefers injecting insulin immediately before a meal or hypoglycaemia is a problem or blood glucose levels rise markedly after meals.
+Consider switching to insulin detemir or insulin glargine from NPH insulin in adults with type 2 diabetes: who do not reach their target HbA1c because of significant hypoglycaemia or who experience significant hypoglycaemia on NPH insulin irrespective of the level of HbA1c reached or who cannot use the device needed to inject NPH insulin but who could administer their own insulin safely and accurately if a switch to one of the long-acting insulin analogues was made or who need help from a carer or healthcare professional to administer insulin injections and for whom switching to one of the long-acting insulin analogues would reduce the number of daily injections.
+Monitor adults with type 2 diabetes who are on a basal insulin regimen (NPH insulin, insulin detemir or insulin glargine[8]) for the need for short-acting insulin before meals (or a pre-mixed [biphasic] insulin preparation). 
+Monitor adults with type 2 diabetes who are on pre-mixed (biphasic) insulin for the need for a further injection of short-acting insulin before meals or for a change to a basal bolus regimen with NPH insulin or insulin detemir or insulin glargine[8], if blood glucose control remains inadequate. 
+Treatment with combinations of medicines including SGLT-2 inhibitors may be appropriate for some people with type 2 diabetes; see the NICE guidance on canagliflozin in combination therapy for treating type 2 diabetes, dapagliflozin in combination therapy for treating type 2 diabetes and empagliflozin in combination therapy for treating type 2 diabetes.
+Insulin delivery
+For guidance on insulin delivery for adults with type 2 diabetes, see the insulin delivery section in the NICE guideline on type 1 diabetes.
+Managing complications
+Gastroparesis
+Think about a diagnosis of gastroparesis in adults with type 2 diabetes with erratic blood glucose control or unexplained gastric bloating or vomiting, taking into account possible alternative diagnoses.
+For adults with type 2 diabetes who have vomiting caused by gastroparesis, explain that: there is not strong evidence that any available antiemetic therapy is effective,  some people have had benefit with domperidone, erythromycin or
+metoclopramide, the strongest evidence for effectiveness is for domperidone, but prescribers must take into account its safety profile, in particular its cardiac risk and potential interactions with other medicines.
+For treating vomiting caused by gastroparesis in adults with type 2 diabetes: consider alternating use of erythomycin and  etoclopramide, consider domperidone only in exceptional circumstances (if domperidone is the only effective treatment) and in accordance with MHRA guidance. 
+If gastroparesis is suspected, consider referral to specialist services if: the differential diagnosis is in doubt or persistent or severe vomiting occurs.
+Painful diabetic neuropathy 
+For guidance on managing painful diabetic peripheral neuropathy in adults with type 2 diabetes, see the NICE guideline on neuropathic pain in adults.
+Autonomic neuropathy
+Think about the possibility of contributory sympathetic nervous system damage for adults with type 2 diabetes who lose the warning signs of hypoglycaemia.
+Think about the possibility of autonomic neuropathy affecting the gut in adults with type 2 diabetes who have unexplained diarrhoea that happens particularly at night.
+When using tricyclic drugs and antihypertensive drug treatments in adults with type 2 diabetes who have autonomic neuropathy, be aware of the increased likelihood of side effects such as orthostatic hypotension.
+Investigate the possibility of autonomic neuropathy affecting the bladder in adults with type 2 diabetes who have unexplained bladder-emptying problems.
+In managing autonomic neuropathy symptoms, include specific interventions indicated by the manifestations (for example, for abnormal sweating or nocturnal diarrhoea).
+Diabetic foot problems
+For guidance on preventing and managing foot problems in adults with type 2 diabetes, see the NICE guideline on diabetic foot problems. 
+Diabetic kidney disease
+For guidance on managing kidney disease in adults with type 2 diabetes, see the NICE guideline on chronic kidney disease in adults.
+Erectile dysfunction
+Offer men with type 2 diabetes the opportunity to discuss erectile dysfunction as part of their annual review.
+Assess, educate and support men with type 2 diabetes who have problematic erectile dysfunction, addressing contributory factors such as cardiovascular disease as well as possible treatment options.
+Consider a phosphodiesterase-5 inhibitor to treat problematic erectile dysfunction in men with type 2 diabetes, initially choosing the drug with the lowest acquisition cost and taking into account any contraindications.
+Following discussion, refer men with type 2 diabetes to a service offering other medical, surgical or psychological management of erectile dysfunction if treatment (including a phosphodiesterase-5 inhibitor, as appropriate) has been unsuccessful. 
+Eye disease
+On diagnosis, GPs should immediately refer adults with type 2 diabetes to the local eye screening service. Perform screening as soon as possible and no later than 3 months from referral. Arrange repeat structured eye screening annually.
+Explain the reasons for, and success of, eye screening systems to adults with type 2 diabetes, so that attendance is not reduced by lack of knowledge or fear of outcome. 
+Use mydriasis with tropicamide when photographing the retina, after prior informed agreement following discussion of the advantages and disadvantages. Discussions should include precautions for driving. 
+Use a quality-assured digital retinal photography programme using appropriately trained staff. 
+Perform visual acuity testing as a routine part of eye screening programmes.
+Depending on the findings, follow structured eye screening by: routine review in 1 year or earlier review or referral to an ophthalmologist. 
+Arrange emergency review by an ophthalmologist for: sudden loss of vision, rubeosis iridis, pre-retinal or vitreous haemorrhage, retinal detachment.
+Arrange rapid review by an ophthalmologist for new vessel formation. 
+Refer to an ophthalmologist in accordance with the National Screening Committee criteria and timelines if any of these features are present: referable maculopathy: exudate or retinal thickening within 1 disc diameter of the centre of the fovea, circinate or group of exudates within the macula (the macula is defined here as a circle centred on the fovea, with a diameter the distance between the temporal border of the optic disc and the fovea), any microaneurysm or haemorrhage within 1 disc diameter of the centre of the fovea, only if associated with deterioration of best visual acuity to 6/12 or worse.
+referable pre-proliferative retinopathy (if cotton wool spots are present, look carefully for the following features, but cotton wool spots themselves do not define pre-proliferative retinopathy): any venous beading, any venous reduplication, any intraretinal microvascular abnormalities, multiple deep, round or blot haemorrhages.
+any large, sudden unexplained drop in visual acuity. 
+Be aware that, if metformin is contraindicated or not tolerated, repaglinide is both clinically effective and cost effective in adults with type 2 diabetes. However, discuss with any person for whom repaglinide is being considered, that there is no licensed  non-metformin-based combination containing repaglinide that can be offered at first intensification.
+When prescribing pioglitazone, exercise particular caution if the person is at high risk of the adverse effects of the drug. Pioglitazone is associated with an increased risk of heart failure, bladder cancer and bone fracture. Known risk factors for these conditions, including increased age, should be carefully evaluated before treatment: see the manufacturers' summaries of product characteristics for details. Medicines and Healthcare products Regulatory Agency (MHRA) guidance (2011) advises that 'prescribers should review the safety and efficacy of pioglitazone in individuals after 3–6 months of treatment to ensure that only patients  who are deriving benefit continue to be treated'.
+Be aware that the drugs in dual therapy should be introduced in a stepwise manner, checking for tolerability and effectiveness of each drug.
+A consultant-led multidisciplinary team may include a wide range of staff based in primary, secondary and community care.
+Medicines and Healthcare products Regulatory Agency (MHRA) guidance (2011) notes that cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for the development of cardiac failure. It advises that if the combination is used, people should be observed for signs and symptoms of heart failure, weight gain, and oedema. Pioglitazone should be discontinued if any deterioration in cardiac status occurs.
+The recommendations in this guideline also apply to any current and future biosimilar product(s) of insulin glargine that have an appropriate marketing authorisation that allows the use of the biosimilar(s) in the same indication.
+Medicines and Healthcare products Regulatory Agency (MHRA) guidance (2014) notes that domperidone is associated with a small increased risk of serious cardiac side effects. Domperidone is now contraindicated in certain groups in whom the risk of cardiac effects is higher; its marketing authorisations have also been restricted to its use in the relief of nausea and vomiting only, at the lowest effective dose and for the shortest possible time (usually not more than 1 week): see the MHRA guidance and summaries of product characteristics. The MHRA advises that prescribers should take into account the overall safety profile of domperidone, and in particular its cardiac risk and potential interactions with other medicines (such as erythromycin), if there is a clinical need to use it at doses or durations greater than those authorised. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's Prescribing guidance: prescribing unlicensed medicines for further information.
+At the time of publication (December 2015), erythromycin did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's Prescribing guidance: prescribing unlicensed medicines for further information. NICE has published an evidence summary: unlicensed or off-label medicine on oral erythromycin for gastroparesis in adults, including a version for the public.
+Medicines and Healthcare products Regulatory Agency (MHRA) guidance (2013) notes that metoclopramide has well-known risks of neurological effects such as short-term extrapyramidal disorders and tardive dyskinesia. It advises that metoclopramide should be prescribed only for short-term use (up to 5 days) at a maximum dose of 30 mg in 24 hours (usual dose of 10 mg up to 3 times a day). 
+Research recommendations
+The Guideline Development Group has made the following recommendations for research, based on its review of evidence, to improve NICE guidance and patient care in the future. The Guideline Development Group's full set of research recommendations is detailed in the full guideline.
+The effects of stopping and/or switching drug treatments to control blood glucose levels
+In adults with type 2 diabetes, what are the effects of stopping and/or switching drug treatments to control blood glucose levels, and what criteria should inform the decision?
+Why this is important
+There is a lack of evidence on the effects of stopping and/or switching drug treatments to control blood glucose levels. The current practice of 'stopping rules' is typically motivated by either inadequate blood glucose control (rising HbA1c levels) or intolerable side effects. There is limited understanding of the short- and long-term effects of stopping a therapy and switching to another in terms of diabetes control (HbA1c levels), hypoglycaemic risk, weight gain, and cardiovascular morbidity and mortality. In addition, there is limited understanding of how quickly consideration should be given to stopping and switching to another drug treatment and, if stopping and switching may be needed, what the optimal sequencing is of drug treatments. Randomised controlled trials examining these different issues would help to improve diabetes care.
+Non-metformin-based drug treatment combinations to control blood glucose levels
+In adults with type 2 diabetes, what treatment combinations (for example, glucagon-like peptide-1 [GLP-1] mimetics and insulin combination therapy with meglitinides) are most effective when initial drug treatment with non-metformin monotherapy fails to adequately control blood glucose levels?
+Why this is important
+Although it is recognised that metformin therapy is suitable for most adults with type 2 diabetes, its use is contraindicated or not tolerated in approximately 15% of individuals. To date, research evidence has largely focused on metformin-based treatment combinations. Given the progressive nature of the condition, in which intensification of blood glucose lowering drug therapies are indicated over time, there is little evidence, for some adults, to guide management strategies on treatment combinations that do not include metformin. Randomised controlled trials are therefore needed to better understand the treatment choices that are available which improve blood glucose control and long-term risks of complications associated with diabetes.
+Drug treatment (third intensification) for when blood glucose levels are inadequately controlled by 3 oral antidiabetic drugs and/or insulin combinations.
+When third intensification of treatment is indicated, which blood glucose lowering therapies should be used to control blood glucose levels?
+Why this is important
+As the incidence of type 2 diabetes increases in the younger population and as blood glucose control declines naturally over time, it is likely that further intensification of therapies would be needed. Currently, there is evidence up to second intensification of drug therapies, that is, when 2 or more non-insulin-based treatment combinations fail to adequately control blood glucose levels. Randomised controlled trials are needed to improve understanding of alternative treatment options for adults at second intensification whose blood glucose is inadequately controlled with insulin and/or triple non-insulin-based drug therapies.
+Long-term outcomes associated with blood glucose lowering agents.
+In adults with type 2 diabetes, what are the long-term effects of blood glucose lowering therapies such as dipeptidyl peptidase-4 (DPP-4) inhibitors, sodium–glucose cotransporter-2 (SGLT-2) inhibitors and meglitinides?
+Why this is important
+There is limited evidence in relation to the long-term effects (at least 5 years) of blood glucose lowering therapies, particularly newer agents in terms of efficacy and adverse events (for example, cardiovascular outcomes). Randomised controlled trials and prospective longitudinal studies are needed to better understand the long-term efficacy and safety issues surrounding these medicines.
+Self-monitoring of blood glucose levels
+What is the optimal frequency for self-monitoring of blood glucose in adults with type 2 diabetes?
+Why this is important
+It is widely recognised that self-monitoring of blood glucose is a multicomponent intervention. As well as being educated about how to use a self-monitoring device to assess blood glucose levels, adults with type 2 diabetes need to be able to understand their results and act on the observed readings.
+In adults for whom self-monitoring is appropriate, there is limited evidence to guide clinical practice in prescribing self-monitoring regimens, in terms of frequency of testing and optimal blood glucose targets. Given the inconvenience and expense of self-monitoring, robust evidence from randomised controlled trials is needed to guide the optimal use of this intervention.
+Do not combine an ACE inhibitor with an angiotensin II-receptor antagonist to treat hypertension. 
+If the person's blood pressure is not reduced to the individually agreed target with first-line therapy, add a calcium-channel blocker or a diuretic (usually a thiazide or thiazide-related diuretic). Add the other drug (that is, the calcium-channel blocker or diuretic) if the target is not reached with dual therapy.
+Refer to an ophthalmologist in accordance with the National Screening Committee criteria and timelines if any of these features is present: referable maculopathy: exudate or retinal thickening within 1 disc diameter of the centre of the fovea , circinate or group of exudates within the macula (the macula is defined here as a circle centred on the fovea, with a diameter the distance  between the temporal border of the optic disc and the fovea),any microaneurysm or haemorrhage within 1 disc diameter of the centre of the fovea, only if associated with deterioration of best visual acuity to 6/12 or worse.
+referable pre-proliferative retinopathy (if cotton  wool spots are present, look carefully for the following features, but cotton wool spots themselves do not define pre-proliferative retinopathy): any venous beading, any venous reduplication, any intraretinal microvascular abnormalities, multiple deep, round or blot haemorrhages.
+any large, sudden, unexplained drop in  visual acuity.
+For adults with type 2 diabetes who have vomiting caused by gastroparesis explain that: there is not strong evidence that any
+available antiemetic therapy is effective, some people have had benefit with domperidone, erythromycin or metoclopramide.
+The strongest evidence for effectiveness is for domperidone, but prescribers must take into account its safety profile, in particular its cardiac risk and potential interactions with other medicines.
+For treating vomiting caused by gastroparesis in adults with type 2 diabetes: consider alternating use of erythomycin and metoclopramide, consider domperidone only in exceptional circumstances (if domperidone is the only effective treatment) and in accordance with MHRA guidance. 
+Strength of recommendations
+Some recommendations can be made with more certainty than others. The Guideline Development Group makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For  some interventions, the Guideline Development Group is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).
+For all recommendations, NICE expects that there is discussion with the patient about the risks and benefits of the interventions, and their values and preferences. This discussion aims to help them to reach a fully informed decision (see also patient-centred care).
+Interventions that must (or must not) be used
+We usually use 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally we use 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening. 
+Interventions that should (or should not) be used – a 'strong' recommendation
+We use 'offer' (and similar words such as 'refer' or 'advise') when we are confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. We use similar forms of words (for example, 'Do not offer…') when we are confident that an intervention will not be of benefit for most patients.
+Interventions that could be used
+We use 'consider' when we are confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.
+Recommendation wording in guideline updates
+NICE began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of 'The guidelines manual' (January 2009). This does not apply to any recommendations ending [2009] (see  pdate information for details about how recommendations are labelled). In particular, for recommendations labelled [2009], the word 'consider' may not necessarily be used to denote the strength of the recommendation.
