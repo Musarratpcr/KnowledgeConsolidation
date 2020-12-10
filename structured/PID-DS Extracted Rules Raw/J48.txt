@@ -1,0 +1,47 @@
+
+W-J48
+J48 pruned tree
+------------------
+
+Glucose <= 127
+|   BMI <= 26.4: No (132.0/3.0)
+|   BMI > 26.4
+|   |   Age <= 28: No (180.0/22.0)
+|   |   Age > 28
+|   |   |   Glucose <= 99: No (55.0/10.0)
+|   |   |   Glucose > 99
+|   |   |   |   DiabetesPedigreeFunction <= 0.561: No (84.0/34.0)
+|   |   |   |   DiabetesPedigreeFunction > 0.561
+|   |   |   |   |   Pregnancies <= 6
+|   |   |   |   |   |   Age <= 30: Yes (4.0)
+|   |   |   |   |   |   Age > 30
+|   |   |   |   |   |   |   Age <= 34: No (7.0/1.0)
+|   |   |   |   |   |   |   Age > 34
+|   |   |   |   |   |   |   |   BMI <= 33.1: Yes (6.0)
+|   |   |   |   |   |   |   |   BMI > 33.1: No (4.0/1.0)
+|   |   |   |   |   Pregnancies > 6: Yes (13.0)
+Glucose > 127
+|   BMI <= 29.9
+|   |   Glucose <= 145: No (41.0/6.0)
+|   |   Glucose > 145
+|   |   |   Age <= 25: No (4.0)
+|   |   |   Age > 25
+|   |   |   |   Age <= 61
+|   |   |   |   |   BMI <= 27.1: Yes (12.0/1.0)
+|   |   |   |   |   BMI > 27.1
+|   |   |   |   |   |   BloodPressure <= 82
+|   |   |   |   |   |   |   DiabetesPedigreeFunction <= 0.396: Yes (8.0/1.0)
+|   |   |   |   |   |   |   DiabetesPedigreeFunction > 0.396: No (3.0)
+|   |   |   |   |   |   BloodPressure > 82: No (4.0)
+|   |   |   |   Age > 61: No (4.0)
+|   BMI > 29.9
+|   |   Glucose <= 157
+|   |   |   BloodPressure <= 61: Yes (15.0/1.0)
+|   |   |   BloodPressure > 61
+|   |   |   |   Age <= 30: No (40.0/13.0)
+|   |   |   |   Age > 30: Yes (60.0/17.0)
+|   |   Glucose > 157: Yes (92.0/12.0)
+
+Number of Leaves  : 	20
+
+Size of the tree : 	39

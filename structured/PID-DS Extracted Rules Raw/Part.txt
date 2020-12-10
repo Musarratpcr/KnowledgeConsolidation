@@ -1,0 +1,57 @@
+
+W-PART
+PART decision list
+------------------
+
+Glucose <= 127 AND
+BMI <= 26.4 AND
+Pregnancies <= 7: No (117.0/1.0)
+
+Glucose > 154 AND
+BMI > 29.8: Yes (100.0/14.0)
+
+Glucose <= 99 AND
+Age <= 25 AND
+Age <= 22: No (33.0)
+
+Age <= 28 AND
+SkinThickness > 0 AND
+SkinThickness <= 34 AND
+Age > 22 AND
+Pregnancies <= 3 AND
+Glucose <= 127: No (61.0/7.0)
+
+Glucose <= 99 AND
+Insulin <= 88 AND
+Insulin <= 18 AND
+SkinThickness <= 21: No (26.0/1.0)
+
+Age <= 24 AND
+SkinThickness > 0 AND
+BMI <= 33.3: No (37.0)
+
+BloodPressure <= 40 AND
+Glucose > 130: Yes (10.0)
+
+Glucose <= 107 AND
+DiabetesPedigreeFunction <= 0.229 AND
+BloodPressure <= 80: No (23.0)
+
+Pregnancies <= 6 AND
+Glucose <= 112 AND
+BloodPressure <= 88 AND
+Age <= 35: No (44.0/8.0)
+
+Age > 61 AND
+Pregnancies > 4: No (11.0)
+
+Age <= 30 AND
+BloodPressure > 72 AND
+BMI <= 42.8: No (41.0/7.0)
+
+Glucose <= 89 AND
+Glucose > 0: No (13.0/1.0)
+
+: Yes (252.0/105.0)
+
+Number of Rules  : 	13

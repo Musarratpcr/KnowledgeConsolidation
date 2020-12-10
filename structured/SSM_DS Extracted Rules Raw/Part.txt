@@ -1,0 +1,51 @@
+
+W-PART
+PART decision list
+------------------
+
+RPG > 199 AND
+previousPPG > 190 AND
+PPG > 174: DM (92.52/28.54)
+
+HbA1c <= 5.7 AND
+FPG <= 101 AND
+PPG <= 142: No DM (34.52/2.06)
+
+RPG > 199 AND
+Sx > 0: DM (50.67/16.3)
+
+previousFPG <= 122 AND
+HbA1c <= 6.4 AND
+PPG <= 199 AND
+FPG > 101 AND
+FPG <= 126: Prediabetes (16.71/1.6)
+
+previousFPG > 121 AND
+OGTT <= 0: DM (17.39/6.53)
+
+HbA1c > 6.4: DM (29.73/14.58)
+
+PPG <= 199 AND
+FPG <= 105 AND
+previousPPG <= 140 AND
+OGTT <= 0: No DM (4.47/0.27)
+
+PPG <= 199 AND
+FPG <= 126 AND
+previousPPG <= 140 AND
+PPG > 140: Prediabetes (3.53/1.06)
+
+PPG > 199 AND
+OGTT > 0: Recheck (13.91/4.43)
+
+FPG <= 100 AND
+PPG > 140: Prediabetes (16.79/4.78)
+
+FPG > 100 AND
+FPG <= 126: Prediabetes (8.41/2.01)
+
+FPG > 111: Recheck (7.56/3.32)
+
+: No DM (5.81/1.73)
+
+Number of Rules  : 	13

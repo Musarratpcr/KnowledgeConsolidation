@@ -1,0 +1,64 @@
+
+Tree
+RPG = ?
+|   previousFPG = ?
+|   |   previousPPG = ?
+|   |   |   PPG = ?
+|   |   |   |   HbA1c = ?
+|   |   |   |   |   FPG > 102: Recheck {No DM=0, Prediabetes=1, Recheck=5, DM=0}
+|   |   |   |   |   FPG = 102: No DM {No DM=7, Prediabetes=0, Recheck=0, DM=0}
+|   |   |   |   HbA1c > 5.700
+|   |   |   |   |   HbA1c > 6.450: Recheck {No DM=0, Prediabetes=0, Recheck=8, DM=2}
+|   |   |   |   |   HbA1c = 6.450
+|   |   |   |   |   |   FPG = ?: Prediabetes {No DM=0, Prediabetes=2, Recheck=0, DM=0}
+|   |   |   |   |   |   FPG > 118.500: Recheck {No DM=0, Prediabetes=0, Recheck=2, DM=0}
+|   |   |   |   |   |   FPG = 118.500: Prediabetes {No DM=0, Prediabetes=2, Recheck=1, DM=0}
+|   |   |   |   HbA1c = 5.700
+|   |   |   |   |   FPG = ?: No DM {No DM=9, Prediabetes=0, Recheck=0, DM=0}
+|   |   |   |   |   FPG > 105.500: Prediabetes {No DM=0, Prediabetes=1, Recheck=1, DM=0}
+|   |   |   |   |   FPG = 105.500: No DM {No DM=2, Prediabetes=0, Recheck=0, DM=0}
+|   |   |   PPG > 199: Recheck {No DM=0, Prediabetes=0, Recheck=18, DM=0}
+|   |   |   PPG = 199
+|   |   |   |   FPG = ?: Prediabetes {No DM=0, Prediabetes=3, Recheck=1, DM=0}
+|   |   |   |   FPG > 125: Recheck {No DM=0, Prediabetes=0, Recheck=2, DM=0}
+|   |   |   |   FPG = 125
+|   |   |   |   |   PPG > 140: Prediabetes {No DM=0, Prediabetes=11, Recheck=1, DM=0}
+|   |   |   |   |   PPG = 140
+|   |   |   |   |   |   FPG > 105: Prediabetes {No DM=0, Prediabetes=6, Recheck=0, DM=0}
+|   |   |   |   |   |   FPG = 105: No DM {No DM=2, Prediabetes=0, Recheck=0, DM=0}
+|   |   previousPPG > 171: DM {No DM=0, Prediabetes=0, Recheck=0, DM=2}
+|   |   previousPPG = 171: No DM {No DM=1, Prediabetes=1, Recheck=0, DM=0}
+|   previousFPG > 123.500: DM {No DM=0, Prediabetes=0, Recheck=0, DM=25}
+|   previousFPG = 123.500
+|   |   previousFPG > 100.500
+|   |   |   HbA1c = ?: Prediabetes {No DM=0, Prediabetes=7, Recheck=0, DM=0}
+|   |   |   HbA1c > 6.550: DM {No DM=0, Prediabetes=0, Recheck=0, DM=4}
+|   |   |   HbA1c = 6.550: Prediabetes {No DM=0, Prediabetes=11, Recheck=0, DM=1}
+|   |   previousFPG = 100.500
+|   |   |   FPG > 103.500: Prediabetes {No DM=0, Prediabetes=2, Recheck=0, DM=0}
+|   |   |   FPG = 103.500
+|   |   |   |   previousPPG = ?: No DM {No DM=2, Prediabetes=0, Recheck=0, DM=0}
+|   |   |   |   previousPPG > 159.500: Prediabetes {No DM=0, Prediabetes=2, Recheck=0, DM=1}
+|   |   |   |   previousPPG = 159.500: No DM {No DM=8, Prediabetes=0, Recheck=0, DM=0}
+RPG > 199.500
+|   RPG > 327: Recheck {No DM=0, Prediabetes=0, Recheck=2, DM=0}
+|   RPG = 327
+|   |   RPG > 316: Recheck {No DM=0, Prediabetes=0, Recheck=1, DM=1}
+|   |   RPG = 316
+|   |   |   Sx = ?: DM {No DM=0, Prediabetes=0, Recheck=0, DM=4}
+|   |   |   Sx > 0.500: DM {No DM=0, Prediabetes=0, Recheck=0, DM=64}
+|   |   |   Sx = 0.500
+|   |   |   |   RPG > 232.500: Recheck {No DM=0, Prediabetes=0, Recheck=2, DM=0}
+|   |   |   |   RPG = 232.500: DM {No DM=0, Prediabetes=0, Recheck=1, DM=20}
+RPG = 199.500
+|   FPG = ?: No DM {No DM=4, Prediabetes=0, Recheck=0, DM=1}
+|   FPG > 103.500
+|   |   FPG > 125.500
+|   |   |   RPG > 181
+|   |   |   |   RPG > 194: Recheck {No DM=0, Prediabetes=0, Recheck=2, DM=1}
+|   |   |   |   RPG = 194
+|   |   |   |   |   FPG > 134: Prediabetes {No DM=0, Prediabetes=1, Recheck=0, DM=1}
+|   |   |   |   |   FPG = 134: DM {No DM=0, Prediabetes=0, Recheck=0, DM=3}
+|   |   |   RPG = 181: Recheck {No DM=0, Prediabetes=0, Recheck=2, DM=0}
+|   |   FPG = 125.500: Prediabetes {No DM=0, Prediabetes=8, Recheck=0, DM=0}
+|   FPG = 103.500: No DM {No DM=28, Prediabetes=2, Recheck=0, DM=0}

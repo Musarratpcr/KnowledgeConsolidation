@@ -1,0 +1,36 @@
+
+RuleModel
+if RPG = 327 and RPG > 199.500 then DM  (0 / 0 / 4 / 89)
+if HbA1c = 5.750 and HbA1c = 5.150 then No DM  (12 / 0 / 1 / 0)
+if PPG = 199.500 and OGTT > 0.500 and PPG > 139.500 then Prediabetes  (0 / 31 / 0 / 2)
+
+
+if FPG = 99.500 and PPG = 169 then No DM  (17 / 0 / 0 / 0)
+if FPG > 126.500 and FPG = 142.500 and FPG > 140.500 then Recheck  (0 / 0 / 3 / 0)
+if FPG > 151.500 and FPG = 159 then Recheck  (0 / 0 / 1 / 0)
+if HbA1c > 5.950 and HbA1c > 6.950 and HbA1c > 7.650 then Recheck  (0 / 0 / 3 / 0)
+if FPG > 110.500 and FPG > 125.500 and FPG > 133.500 and FPG = 145 then DM  (0 / 0 / 0 / 6)
+if FPG > 126.500 and FPG = 148.500 and FPG > 130.500 and FPG = 131.500 then Recheck  (0 / 0 / 2 / 0)
+if FPG > 126.500 and FPG = 129.500 and RPG > 194 then Recheck  (0 / 0 / 1 / 0)
+if FPG > 126.500 and RPG = 181 then Recheck  (0 / 0 / 2 / 0)
+if HbA1c = 5.750 and previousHbA1c = 5.700 then No DM  (6 / 0 / 0 / 0)
+if FPG > 110.500 and FPG > 125.500 and FPG > 148.500 then DM  (0 / 0 / 0 / 4)
+if FPG = 110.500 and FPG > 109 then Recheck  (0 / 0 / 4 / 0)
+if previousFPG = 123.500 and previousFPG > 112 then Prediabetes  (0 / 13 / 0 / 2)
+if FPG = 107.500 and HbA1c = 6.450 and HbA1c > 5.700 and FPG > 99.500 then Recheck  (1 / 0 / 3 / 0)
+if FPG = 99.500 and FPG = 88.500 and Sx > 0.500 then No DM  (2 / 0 / 0 / 0)
+if FPG > 99.500 and PPG > 187.500 then DM  (0 / 0 / 0 / 5)
+if FPG = 98.500 and FPG > 88.500 and FPG = 89.500 then Recheck  (0 / 0 / 3 / 0)
+if FPG = 94.500 and FPG = 79.500 then No DM  (3 / 0 / 0 / 0)
+if FPG = 98.500 and HbA1c > 6.900 then Recheck  (0 / 0 / 1 / 0)
+if FPG = 102 and FPG > 98.500 then No DM  (5 / 1 / 0 / 1)
+if FPG > 126.500 and FPG > 131.500 then Recheck  (0 / 0 / 2 / 1)
+if FPG > 94.500 and FPG > 124.500 and FPG > 129.500 then DM  (0 / 0 / 0 / 2)
+if HbA1c > 5.950 and HbA1c = 6.350 and HbA1c = 6.150 then Recheck  (0 / 0 / 2 / 0)
+if FPG > 94.500 and FPG > 124.500 and FPG = 128.500 and HbA1c > 6.450 then DM  (0 / 0 / 0 / 2)
+if FPG > 125 then Recheck  (0 / 0 / 2 / 1)
+if FPG = 94.500 and HbA1c > 5.550 then No DM  (1 / 0 / 0 / 0)
+if FPG = 94.500 and FPG > 83.500 and FPG = 91 then No DM  (5 / 0 / 1 / 0)
+else Prediabetes  (9 / 13 / 12 / 13)
+
+correct: 245 out of 294 training examples.

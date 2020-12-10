@@ -1,0 +1,44 @@
+
+Tree
+Glucose > 166.500
+|   BloodPressure > 93
+|   |   Pregnancies > 7.500: Yes {Yes=2, No=0}
+|   |   Pregnancies = 7.500
+|   |   |   Glucose > 186: Yes {Yes=1, No=1}
+|   |   |   Glucose = 186: No {Yes=0, No=2}
+|   BloodPressure = 93: Yes {Yes=65, No=8}
+Glucose = 166.500
+|   Pregnancies > 13.500: Yes {Yes=3, No=0}
+|   Pregnancies = 13.500
+|   |   Glucose > 154.500
+|   |   |   Insulin > 542.500: No {Yes=0, No=2}
+|   |   |   Insulin = 542.500
+|   |   |   |   DiabetesPedigreeFunction > 0.141
+|   |   |   |   |   Age > 53.500
+|   |   |   |   |   |   Pregnancies > 3.500: No {Yes=0, No=3}
+|   |   |   |   |   |   Pregnancies = 3.500: Yes {Yes=1, No=1}
+|   |   |   |   |   Age = 53.500
+|   |   |   |   |   |   SkinThickness > 42: No {Yes=1, No=2}
+|   |   |   |   |   |   SkinThickness = 42
+|   |   |   |   |   |   |   BloodPressure > 69: Yes {Yes=20, No=0}
+|   |   |   |   |   |   |   BloodPressure = 69
+|   |   |   |   |   |   |   |   BloodPressure > 63: No {Yes=2, No=3}
+|   |   |   |   |   |   |   |   BloodPressure = 63: Yes {Yes=5, No=0}
+|   |   |   |   DiabetesPedigreeFunction = 0.141: No {Yes=0, No=2}
+|   |   Glucose = 154.500
+|   |   |   Glucose > 101.500: No {Yes=148, No=274}
+|   |   |   Glucose = 101.500
+|   |   |   |   Insulin > 212.500: Yes {Yes=2, No=1}
+|   |   |   |   Insulin = 212.500
+|   |   |   |   |   Glucose > 22
+|   |   |   |   |   |   DiabetesPedigreeFunction > 1.116
+|   |   |   |   |   |   |   Pregnancies > 2.500: Yes {Yes=3, No=0}
+|   |   |   |   |   |   |   Pregnancies = 2.500: No {Yes=0, No=5}
+|   |   |   |   |   |   DiabetesPedigreeFunction = 1.116
+|   |   |   |   |   |   |   Insulin > 150
+|   |   |   |   |   |   |   |   Glucose > 96.500: No {Yes=0, No=4}
+|   |   |   |   |   |   |   |   Glucose = 96.500: Yes {Yes=2, No=1}
+|   |   |   |   |   |   |   Insulin = 150: No {Yes=11, No=188}
+|   |   |   |   |   Glucose = 22
+|   |   |   |   |   |   Pregnancies > 3: Yes {Yes=2, No=0}
+|   |   |   |   |   |   Pregnancies = 3: No {Yes=0, No=3}

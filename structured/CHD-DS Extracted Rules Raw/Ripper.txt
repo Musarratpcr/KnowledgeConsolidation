@@ -1,0 +1,23 @@
+
+RuleModel
+if age = 49.500 and tobacco = 0.585 then No  (14 / 115)
+if age = 49.500 and typea = 53.500 and ldl = 6.270 and obesity > 25.140 then No  (1 / 24)
+if famhist = 0.500 and tobacco = 7.605 and adiposity = 25.470 and sbp > 123 then No  (4 / 37)
+if age > 50.500 and tobacco > 4.140 and sbp > 159 and alcohol = 37.545 then Yes  (20 / 3)
+if tobacco = 8.040 and famhist = 0.500 and typea = 49.500 then No  (4 / 28)
+if age > 50.500 and ldl > 7.200 then Yes  (17 / 0)
+if age > 54.500 and sbp = 151 and obesity = 27.940 and tobacco > 6.540 then Yes  (14 / 1)
+if ldl = 4.320 and obesity = 25.130 and sbp = 133 then No  (2 / 13)
+if typea > 66.500 and age > 43 then Yes  (8 / 0)
+if adiposity > 28.075 and sbp > 149 and adiposity > 31.155 and adiposity = 38.900 then No  (1 / 12)
+if typea = 54.500 and tobacco > 4.490 and typea = 50.500 then Yes  (12 / 3)
+if adiposity > 28.065 and alcohol > 13.500 and adiposity = 30.425 then No  (1 / 11)
+if tobacco = 4.085 then Yes  (44 / 28)
+if adiposity = 32.765 and sbp > 135 and ldl = 6.555 then No  (1 / 14)
+if ldl = 5.600 and age = 60 then Yes  (11 / 0)
+if tobacco > 5.120 and tobacco = 6.600 then No  (0 / 7)
+if ldl > 7.845 then No  (0 / 3)
+if typea > 56 and alcohol = 27.980 then Yes  (6 / 0)
+else No  (0 / 2)
+
+correct: 398 out of 461 training examples.

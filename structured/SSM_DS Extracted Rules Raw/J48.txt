@@ -1,0 +1,31 @@
+
+W-J48
+J48 pruned tree
+------------------
+
+RPG <= 199
+|   HbA1c <= 5.8
+|   |   FPG <= 101: No DM (40.65/5.75)
+|   |   FPG > 101
+|   |   |   FPG <= 126: Prediabetes (4.95/1.36)
+|   |   |   FPG > 126: Recheck (4.38/1.63)
+|   HbA1c > 5.8
+|   |   HbA1c <= 6.4
+|   |   |   PPG <= 199
+|   |   |   |   FPG <= 126: Prediabetes (24.52/6.06)
+|   |   |   |   FPG > 126: DM (8.31/4.79)
+|   |   |   PPG > 199: Recheck (7.38/3.52)
+|   |   HbA1c > 6.4: DM (17.96/7.98)
+RPG > 199
+|   previousPPG <= 190
+|   |   Sx <= 0
+|   |   |   HbA1c <= 6.4
+|   |   |   |   previousPPG <= 139: No DM (11.06/4.95)
+|   |   |   |   previousPPG > 139: Prediabetes (14.06/5.88)
+|   |   |   HbA1c > 6.4: DM (15.21/6.04)
+|   |   Sx > 0: DM (41.06/13.06)
+|   previousPPG > 190: DM (112.46/39.6)
+
+Number of Leaves  : 	12
+
+Size of the tree : 	23

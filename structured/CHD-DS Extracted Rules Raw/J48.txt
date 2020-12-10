@@ -1,0 +1,37 @@
+
+W-J48
+J48 pruned tree
+------------------
+
+age <= 31
+|   tobacco <= 0.5: No (81.0/1.0)
+|   tobacco > 0.5
+|   |   alcohol <= 11.1: No (16.0)
+|   |   alcohol > 11.1
+|   |   |   famhist <= 0
+|   |   |   |   obesity <= 25.39
+|   |   |   |   |   alcohol <= 21.19: Yes (3.0)
+|   |   |   |   |   alcohol > 21.19
+|   |   |   |   |   |   sbp <= 118: No (2.0)
+|   |   |   |   |   |   sbp > 118: Yes (3.0/1.0)
+|   |   |   |   obesity > 25.39: No (5.0)
+|   |   |   famhist > 0
+|   |   |   |   tobacco <= 2.4: No (4.0/1.0)
+|   |   |   |   tobacco > 2.4: Yes (3.0)
+age > 31
+|   typea <= 68
+|   |   age <= 50: No (161.0/44.0)
+|   |   age > 50
+|   |   |   famhist <= 0
+|   |   |   |   tobacco <= 7.6
+|   |   |   |   |   tobacco <= 4.82
+|   |   |   |   |   |   tobacco <= 3.96: No (39.0/10.0)
+|   |   |   |   |   |   tobacco > 3.96: Yes (6.0/1.0)
+|   |   |   |   |   tobacco > 4.82: No (12.0)
+|   |   |   |   tobacco > 7.6: Yes (24.0/7.0)
+|   |   |   famhist > 0: Yes (84.0/27.0)
+|   typea > 68: Yes (19.0/2.0)
+
+Number of Leaves  : 	15
+
+Size of the tree : 	29

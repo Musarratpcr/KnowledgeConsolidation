@@ -1,0 +1,28 @@
+
+W-PART
+PART decision list
+------------------
+
+age <= 31 AND
+tobacco <= 0.5: No (81.0/1.0)
+
+typea <= 68 AND
+age <= 50: No (196.0/52.0)
+
+famhist > 0: Yes (98.0/28.0)
+
+tobacco <= 7.6 AND
+typea > 42 AND
+age > 47: No (49.0/17.0)
+
+typea <= 56 AND
+tobacco > 7 AND
+adiposity > 28.95: No (12.0/5.0)
+
+typea > 43: Yes (13.0)
+
+tobacco <= 7.2: No (11.0)
+
+: Yes (2.0)
+
+Number of Rules  : 	8

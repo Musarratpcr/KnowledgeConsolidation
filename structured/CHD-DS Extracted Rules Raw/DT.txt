@@ -1,0 +1,7 @@
+Tree
+tobacco > 22.505: Yes {Yes=3, No=0}
+tobacco = 22.505
+|   sbp > 215: Yes {Yes=2, No=0}
+|   sbp = 215
+|   |   adiposity > 42.115: Yes {Yes=2, No=0}
+|   |   adiposity = 42.115: No {Yes=153, No=302}
