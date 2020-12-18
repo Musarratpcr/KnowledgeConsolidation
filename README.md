@@ -21,6 +21,7 @@ We also have acquired expert knoweledge as a flowchat shown in the menuscript Th
 
 
 # Rule Consolidation
+The rule consolidation is done in the RdrTree.py file. The result procduced by the consolidation algorithm is shown in rdrTree.txt. To reproduce the result, user need to run the file rules.py, the RDR tree will be generated and saved to rdrTree.txt file.
 
 The rules acquired by each individual method are consolidate into  RDR models, taking expert into a loop. The realization and detail of the system can be found in http://imprc.cafe24.com/
 
