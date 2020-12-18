@@ -1,6 +1,8 @@
 from structured.SSMDSRules import SSMDSRules
 from structured.PIDDSRules import PIDDSRules
 from structured.CHDDSRules import CHDDSRules
+from RdrTree import *
+import pickle
 
 class Rules:
 	def __init__(self):
@@ -70,6 +72,18 @@ class Rules:
 
 		return duplicates
 
+	def calcualteDifference(self, ruleList, duplicateList):
+		for index, dupRule in enumerate(duplicateList):
+			condition1 = self.GetRuleConditionArray(dupRule['rule1'])
+			#condition1.append(rule['conclusion'])
+
+			for i, rule  in enumerate(ruleList):
+				condition2 = self.GetRuleConditionArray(rule)
+				#condition2.append(ruleList[i]['conclusion'])
+				if set(condition1) == set(condition2):
+					ruleList.remove(rule)
+		return ruleList
+
 	def getConflictedRules(self, rules):
 
 		Conflictes  = []
@@ -85,6 +99,73 @@ class Rules:
 
 		return Conflictes 
 
+	def toProductionRuleString(self, ruleList):
+		productionRuleList = []
+		for rule in ruleList:
+			productionRule = " IF "
+			for condition in rule['conditions']:
+				productionRule += condition['key'] + " " + condition['operator'] + " " + condition['value'] + " AND "
+			
+			productionRule = "".join(productionRule.rsplit(" AND ", 1))
+			productionRule += " THEN " + rule['conclusion']
+
+			productionRuleList.append(productionRule)
+
+		productionRuleList = sorted(productionRuleList, key=len)
+		
+		return "\r\n".join(productionRuleList)
+
+	def getConslidatedRules(self, ruleSet):
+		
+		recommendations = {}
+		knowledegBase = Tree()
+		
+		#knowledegBase.append({'conditions': [{'key': '1', 'operator': '=', 'value': '1'}], 'conclusion': 'No Disease'})
+
+		for genRule in ruleSet:
+			if(genRule['conclusion'] not in recommendations.keys()):
+				recommendations[genRule['conclusion']] = [genRule]
+			else:
+				recommendations[genRule['conclusion']].append(genRule)
+
+
+		for genRuleConclusion in recommendations:
+			
+			# print(genRuleConclusion)
+			# print(recommendations[genRuleConclusion])
+
+			for genRule in recommendations[genRuleConclusion]:
+
+				# print('genRule', genRule)
+				print(".", end =" ")
+				knowledegBase.addRuleNode(None,genRule)
+			print("")
+			print(len(recommendations[genRuleConclusion]), 'Rules for ', genRuleConclusion, ' added')
+			
+				
+				# conclusionGroupsInKB = []
+				# ruleFound = false
+				# for rdrRuleRef in knowledegBase:
+				# 	if rdrRuleRef['conclusion'] == genRuleConclusion:
+				# 		conclusionGroupsInKB.append(rdrRuleRef)
+				# 		ruleFound = true
+				# 		break
+				# if not ruleFound : 
+				# knowledegBase.addRuleNode(genRule)
+
+						
+			# print('conclusionGroupsInKB: ', conclusionGroupsInKB)
+			
+			# for rdrRuleRef in conclusionGroupsInKB:
+			# 	rdrRuleRef.append(genRule)
+				
+			# knowledegBase.append({genRuleConclusion : })
+
+		# knowledegBase.printTree()
+
+		return knowledegBase
+		
+
 
 rulesObj =  Rules()
 ssmRules = rulesObj.getSSMRules()
@@ -93,10 +174,29 @@ chdRules = rulesObj.getCHDRules()
 
 rules = ssmRules + pidRules + chdRules
 
+# print('total Rule: ', len(rules))
+# print(rules)
+
 duplicateRules = rulesObj.getDuplicateRules(rules)
-print('total duplicate Rules: ', len(duplicateRules))
-print(duplicateRules)
+# print('total duplicate Rules: ', len(duplicateRules))
+# print(duplicateRules)
+
+rulesWithoutDuplicates =  rulesObj.calcualteDifference(rules, duplicateRules)
 
 conflictedRules = rulesObj.getConflictedRules(rules)
-print('total conflicted Rules: ', len(conflictedRules))
-print(conflictedRules)
+# print('total conflicted Rules: ', len(conflictedRules))
+# print(conflictedRules)
+
+rulesWithoutConflicts = rulesObj.calcualteDifference(rulesWithoutDuplicates, conflictedRules)
+#rulesWithoutConflicts90 = rulesWithoutConflicts[0:150]
+print('remaining Rule: ', len(rulesWithoutConflicts))
+
+# print(rulesObj.toProductionRuleString(rulesWithoutConflicts))
+
+consolidatedRules = rulesObj.getConslidatedRules(rulesWithoutConflicts)
+# print(' getConslidatedRules : ', len(consolidatedRules))
+
+with open("rdrTree.txt", "w") as rdr_file:
+	strRdrTree = consolidatedRules.getTreeAsString()
+	rdr_file.write(strRdrTree)
+
